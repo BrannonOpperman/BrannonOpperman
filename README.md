@@ -11,14 +11,16 @@
   </a>
 </h2>
 
-<p style="margin-bottom: 30px">
-  💻 Chiefly backend focused with experience in building endpoints, application logic, and domain logic for backend systems to interact with databases and other external services to serve frontend web and mobile apps
-</p>
-<p style="margin-bottom: 10px">
-  🧠 I’m currently learning <em>NestJs</em> and up-skilling when I can in Infrastructure, Cloud, and DevOps, to further hone my skills
-</p>
+<div align="center">
+  <p style="margin-bottom: 30px">
+    💻 Chiefly backend focused with experience in building endpoints, application logic, and domain logic for backend systems to interact with databases and other external services to serve frontend web and mobile apps
+  </p>
+  <p style="margin-bottom: 10px">
+    🧠 I’m currently learning <em>NestJs</em> and up-skilling when I can in Infrastructure, Cloud, and DevOps, to further hone my skills
+  </p>
+</div>
 
-<h2>My Languages, Tooling, and Frameworks:</h2>
+<h2 align="center">My Languages, Tooling, and Frameworks:</h2>
 <p align="center" style="margin-bottom: 40px">
   <a href="https://www.python.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
@@ -50,17 +52,13 @@
   <a href="https://github.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="50" height="50" style="background-color: white;"/>
   </a>
-  <a href="https://www.linkedin.com/in/brannon-opperman" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="50" height="50"/>
-  </a>
 </p>
 
-<h1>My Github Stats</h1>
+<h1 align="center">My Github Stats</h1>
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BrannonOpperman&show_icons=true&theme=radical#gh-dark-mode-only" alt="Brannon's README Streak Stats - Dark" style="margin-bottom: 15px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BrannonOpperman&show_icons=true&theme=default#gh-light-mode-only" alt="Brannon's README Streak Stats - Light" style="margin-bottom: 15px"/>
-
-  <img src="https://github-readme-stats-brannons-projects-f711a7ce.vercel.app/api?username=BrannonOpperman&show_icons=true&show=reviews,prs_merged,prs_merged_percentage&theme=radical#gh-dark-mode-only" alt="Brannon's GitHub Stats - Dark" />
-  <img src="https://github-readme-stats-brannons-projects-f711a7ce.vercel.app/api?username=BrannonOpperman&show_icons=true&show=reviews,prs_merged,prs_merged_percentage&theme=default#gh-light-mode-only" alt="Brannon's GitHub Stats - Light" />
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BrannonOpperman&show_icons=true&theme=radical" alt="GitHub Streak Stats" style="display: block; margin-bottom: 20px;">
+  <img src="https://github-readme-stats-brannons-projects-f711a7ce.vercel.app/api?username=BrannonOpperman&show_icons=true&show=reviews,prs_merged,prs_merged_percentage,contribs&hide=stars,issues&theme=radical" alt="GitHub Stats" style="display: block;">
+</div>
 
 </div>
