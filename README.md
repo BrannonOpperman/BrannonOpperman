@@ -21,7 +21,7 @@
 </div>
 
 <h2 align="center">My Languages, Tooling, and Frameworks:</h2>
-<p align="center" style="margin-bottom: 40px">
+<p align="center" style="margin-bottom: 50px">
   <a href="https://www.python.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
   </a>
@@ -51,6 +51,14 @@
   </a>
   <a href="https://github.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="50" height="50" style="background-color: white;"/>
+  </a>
+</p>
+
+<h3 align="center">Want to get in touch? Connect with me on LinkedIn and shoot me a message!</h3>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/brannon-opperman/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" width="140" height="40"/>
   </a>
 </p>
 
