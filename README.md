@@ -13,11 +13,13 @@
 
 <div align="center">
   <p style="margin-bottom: 30px">
-    💻 Chiefly backend focused with experience in building endpoints, application logic, and domain logic for backend systems to interact with databases and other external services to serve frontend web and mobile apps
+    💻 Chiefly backend-focused with experience in building RESTFUL apis, application logic, and domain logic for backend systems to interact with databases and other external services to serve frontend web and mobile apps
   </p>
   <p style="margin-bottom: 10px">
-    🧠 I’m currently learning <em>NestJs</em> and up-skilling when I can in Infrastructure, Cloud, and DevOps, to further hone my skills
+    🧠 I’m currently working with Python, Django, and Django REST Framework, and up-skilling when I can in Infrastructure, Cloud, and DevOps, to further hone my skills
   </p>
+  <p style="margin-bottom: 10px">
+      🤖 Recently adopted Cursor to help augment my workflow
 </div>
 
 <h2 align="center">My Languages, Tooling, and Frameworks:</h2>
