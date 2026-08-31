@@ -54,6 +54,9 @@
   <a href="https://github.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="50" height="50" style="background-color: white;"/>
   </a>
+  <a href="https://sentry.io/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sentry/sentry-original.svg" alt="Sentry" width="50" height="50" style="background-color: white;"/>
+  </a>
 </p>
 
 <h3 align="center">Want to get in touch? Connect with me on LinkedIn and shoot me a message!</h3>
